@@ -2,9 +2,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
   </p>
 <h1 align="center">Hi, I'm Youssef Jedidi 👋</h1>
-
-
+<!--
+<img align="left" src="https://img.shields.io/github/followers/youssefjedidi?color=green&logo=github">
+<img align="left" src="https://komarev.com/ghpvc/?username=youssefjedidi">
+-->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&layout=pie">
+
 <!--
 **youssefjedidi/youssefjedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
