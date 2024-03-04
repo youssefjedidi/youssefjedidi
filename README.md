@@ -1,7 +1,7 @@
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
   </p>
-<h1 align="center">### Hi, I'm Youssef Jedidi 👋</h1>
+<h1 align="center">Hi, I'm Youssef Jedidi 👋</h1>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&layout=pie">
