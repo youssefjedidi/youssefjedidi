@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **ML algorithms**.
 -  :school: I am a `second year` Engineering Student at [Concrdia University](https://www.concordia.ca/).
 -  👯 I’m looking to collaborate on an **AI Hackathon**
-- 📫 How to reach me [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
+- 📫 How to reach me  visit [youssefjedidi.vercel.app](http://youssefjedidi.vercel.app). or contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
