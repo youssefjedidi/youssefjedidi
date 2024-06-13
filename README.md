@@ -16,10 +16,9 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true">
   
-- 🔭 I’m currently working on a [Student aircaft Design Project](https://github.com/youssefjedidi/Aircraft_Design_Project).
-- 🌱 I’m currently learning **DL algorithms**.
+
+- 🌱 I’m currently learning **DevSecOps**.
 -  :school: I am a `second year` Engineering Student at [Concrdia University](https://www.concordia.ca/).
--  👯 I’m looking to collaborate on an **AI Hackathon**
 - 📫 How to reach me  visit [youssefjedidi.vercel.app](http://youssefjedidi.vercel.app). or contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
 </p>
 
@@ -41,7 +40,8 @@
 **youssefjedidi/youssefjedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on a [Student aircaft Design Project](https://github.com/youssefjedidi/Aircraft_Design_Project).
+-  👯 I’m looking to collaborate on an **AI Hackathon**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
