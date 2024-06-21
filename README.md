@@ -18,7 +18,7 @@
   
 
 - 🌱 I’m currently learning **DevSecOps**.
-- - 🔭 I’m currently working on [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- 🔭 I’m currently working on [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 -  :school: I am a `second year` Engineering Student at [Concrdia University](https://www.concordia.ca/).
 - 📫 How to reach me  visit [youssefjedidi.vercel.app](http://youssefjedidi.vercel.app). or contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
 </p>
