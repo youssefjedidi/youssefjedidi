@@ -13,7 +13,7 @@
 </a>
 <p align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+@+Concordia+University;Software+Developer+C%26DH+@Space+Concordia;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problems" alt="Typing SVG" /></a>
-  
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Youssef Jedidi , software engineering , montreal , AI ML developer">
   
 
@@ -36,6 +36,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
+  <p align="left" > <img src="https://komarev.com/ghpvc/?username=youssefjedidi&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjedidi"  /> </p>
 
 <!--
 **youssefjedidi/youssefjedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
