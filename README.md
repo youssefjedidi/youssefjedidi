@@ -14,7 +14,7 @@
 <p align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+@+Concordia+University;Software+Developer+C%26DH+@Space+Concordia;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problems" alt="Typing SVG" /></a>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Youssef Jedidi , software engineering , montreal , AI ML developer">
   
 
 - 🌱 I’m currently learning **DevSecOps**.
