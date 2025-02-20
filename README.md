@@ -16,8 +16,9 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Youssef Jedidi , software engineering , montreal , AI ML developer">
   
-
+<!--
 - 🌱 I’m currently learning [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity).
+-->
 - 🔭 I’m currently working on **an AI-powered dermatology tool**.
 -  :school: I am a `second year` Engineering Student at [Concrdia University](https://www.concordia.ca/).
 - 📫 How to reach me  visit [youssefjedidi.vercel.app/contact](https://youssefjedidi.vercel.app/contact). or contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
