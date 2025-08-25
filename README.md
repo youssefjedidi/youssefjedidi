@@ -12,7 +12,7 @@
 </a>
 <p align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=a3e3cc&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+@+Concordia+University;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
-
+<!--
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Youssef Jedidi , software engineering , montreal , AI ML developer">
   
 <!--
