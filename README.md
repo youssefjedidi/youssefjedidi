@@ -20,7 +20,7 @@
 -->
 - 🔭 I’m currently working on **an AI-powered dermatology tool**.
 -  :school: I am a Computer Engineering Student at [Concrdia University](https://www.concordia.ca/).
-- 📫 How to reach me  visit [youssefjedidi.vercel.app/contact](https://youssefjedidi.vercel.app/contact). or contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
+- 📫 How to reach me: contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
