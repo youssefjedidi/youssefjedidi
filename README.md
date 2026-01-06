@@ -42,5 +42,5 @@ Montreal, Canada
 ---
 
 <div align="center">
-<sub>📍 Open to collaboration on web & AI projects</sub>
+<sub>📍 Available for projects and collaboration</sub>
 </div>
