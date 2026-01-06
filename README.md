@@ -21,6 +21,7 @@
 - 🔭 I’m currently working on **an AI-powered dermatology tool**.
 -  :school: I am a Computer Engineering Student at [Concrdia University](https://www.concordia.ca/).
 - 📫 How to reach me: contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
+- check out my latest work (Web design and full stack Web Development) : [atelierdada.com](https://www.atelierdada.com/en) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
