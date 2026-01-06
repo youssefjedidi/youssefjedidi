@@ -1,72 +1,46 @@
-<p align="center" >
+<div align="center">
 
-<h1 align="center">Hello! I'm Youssef Jedidi 👋</h1>
+# Youssef Jedidi
 
+**Full-Stack Development · Applied AI / Edge ML**  
+Montreal, Canada
 
-<!--
-<img align="left" src="https://img.shields.io/github/followers/youssefjedidi?color=green&logo=github">
-<img align="left" src="https://komarev.com/ghpvc/?username=youssefjedidi">
--->
-<a align="left">
-<h1>#<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>About me</h1>
+<br>
+
+<a href="https://www.atelierdada.com/en">
+  <img src="https://img.shields.io/badge/Featured_Work-Atelier_Dada-black?style=for-the-badge">
 </a>
-<p align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=a3e3cc&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+@+Concordia+University;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
-<!--
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjedidi&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Youssef Jedidi , software engineering , montreal , AI ML developer">
-  
-<!--
-- 🌱 I’m currently learning [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity).
--->
-- 🔭 I’m currently working on **an AI-powered dermatology tool**.
--  :school: I am a Computer Engineering Student at [Concrdia University](https://www.concordia.ca/).
-- 📫 How to reach me: contact [in/youssef-jedidi](https://www.linkedin.com/in/youssef-jedidi/).
-- check out my latest work (Web design and full stack Web Development) : [atelierdada.com](https://www.atelierdada.com/en) 
+<a href="https://www.linkedin.com/in/youssef-jedidi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Jedidi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://www.atelierdada.com/en">
+
+  <img src="https://github.com/user-attachments/assets/602b9617-1939-433b-a2b0-b6d0fdd0c095" alt="Atelier Dada" width="100%" style="border-radius: 8px; max-width: 900px;">
+</a>
+
+<p>
+  <em><strong><a href="https://www.atelierdada.com/en">Atelier Dada</a></strong> — web design & full-stack development</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-<!-- <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
-</p> -->
-  <p align="left" > <img src="https://komarev.com/ghpvc/?username=youssefjedidi&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjedidi"  /> </p>
+</div>
 
-<!--
-**youssefjedidi/youssefjedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on a [Student aircaft Design Project](https://github.com/youssefjedidi/Aircraft_Design_Project).
--  👯 I’m looking to collaborate on an **AI Hackathon**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- **Design, Build, and Ship** performant, production-grade full-stack web applications.
+- **Apply machine learning** to real-world problems, optimized for edge deployment.
+
+### Current focus
+
+- AI-powered dermatology platform 
+- Computer Engineering @ Concordia University
+
+---
+
+<div align="center">
+<sub>📍 Open to collaboration on web & AI projects</sub>
+</div>
